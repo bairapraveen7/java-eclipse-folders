@@ -1,0 +1,13 @@
+package factory;
+
+public class Flutter {
+	
+	public void setTheme() {
+		System.out.print("Setting Theme");	
+	}
+	
+	public void setRefreshRate() {
+		System.out.print("Setting Refresh Rate to 10Hz");
+	}
+	
+}

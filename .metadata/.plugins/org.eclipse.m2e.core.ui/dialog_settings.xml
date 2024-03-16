@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="/Users/hicul/Desktop/Professional/Skills/plants"/>
+			<item value="/Users/hicul/Desktop/Professional/Skills/material"/>
+			<item value="/Users/hicul/Desktop/Professional/Skills/nature"/>
+			<item value="/Users/hicul/Desktop/Professional/Skills/personality"/>
+			<item value="/Users/hicul/Desktop/Professional/Skills/sharpenskills"/>
+			<item value="/Users/hicul/Desktop/Professional/Skills/learnspringboot"/>
+			<item value="/Users/hicul/Desktop/Professional/Skills/learn-spring-framework"/>
+			<item value="/Users/hicul/Desktop/Professional/Skills/Its_spring"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.in28mins.learn.spring.framework.Gameconsole"/>
+    <fullyQualifiedTypeName name="com.in28mins.learn.spring.framework.HelloWorldconfiguration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="com.in28mins.learn.spring.framework.game.Pacman"/>
+    <fullyQualifiedTypeName name="com.in28mins.learn.spring.framework.spring_game"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="com.in28mins.learn.spring.framework.game.Gameconsole"/>
+    <fullyQualifiedTypeName name="com.in28mins.learn.spring.framework.game.GameRunner"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="com.testcomponent.framework.game.Destiny"/>
+    <fullyQualifiedTypeName name="com.testboot.sharpenskills.Repository"/>
+    <fullyQualifiedTypeName name="com.springboot.personality.personality.data.personality"/>
+    <fullyQualifiedTypeName name="com.springboot.personality.personality.repository.Repository"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.testagain.nature.repository.Repository"/>
+    <fullyQualifiedTypeName name="com.material.material.repository.Repository"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="com.plants.trees.Trees"/>
+    <fullyQualifiedTypeName name="com.plants.repository.Repository"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="factory.menu.Menu"/>
+    <fullyQualifiedTypeName name="factory.dropdown.Dropdown"/>
+    <fullyQualifiedTypeName name="factory.buttons.AndroidButton"/>
+    <fullyQualifiedTypeName name="factory.menu.AndroidMenu"/>
+    <fullyQualifiedTypeName name="factory.dropdown.AndroidDropdown"/>
+    <fullyQualifiedTypeName name="factory.buttons.IosButton"/>
+    <fullyQualifiedTypeName name="factory.menu.IosMenu"/>
+    <fullyQualifiedTypeName name="factory.dropdown.IosDropdown"/>
+    <fullyQualifiedTypeName name="factory.buttons.Button"/>
+</qualifiedTypeNameHistroy>

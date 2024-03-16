@@ -1,0 +1,23 @@
+package factory;
+
+public class Flutter {
+	
+	public void setTheme() {
+		System.out.print("Setting Theme");	
+	}
+	
+	public void setRefreshRate() {
+		System.out.print("Setting Refresh Rate to 10Hz");
+	}
+	
+	public UIFactory createFactory(SupportedPlatforms platform) {
+		if(platform == SupportedPlatforms.ANDROID) {
+			return new AndroidUIFactory();
+		}
+		else if(platform == SupportedPlatforms.IOS) {
+			return new IosUIFactory();
+		}
+		return null;
+	}
+	
+}
